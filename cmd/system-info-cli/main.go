@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 	"os"
-    "github/rajat8rj/system-info-cli/internal/cpu"
-    "github/rajat8rj/system-info-cli/internal/mem"
-    "github/rajat8rj/system-info-cli/internal/disk"
+    "github.com/rajat8rj/system-info-cli/internal/cpu"
+    "github.com/rajat8rj/system-info-cli/internal/mem"
+    "github.com/rajat8rj/system-info-cli/internal/disk"
 )
 
 func main() {
